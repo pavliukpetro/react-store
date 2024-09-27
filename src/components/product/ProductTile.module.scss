@@ -1,0 +1,12 @@
+$green: rgb(11, 51, 11);
+
+.productCart {
+    background-color: aliceblue !important;
+    color: black !important;
+}
+
+.price {
+    color: $green !important;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
